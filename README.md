@@ -15,6 +15,7 @@ If you find this work useful, please consider citing our paper:
   journal={arXiv preprint arXiv:2410.22716},
   year={2024}
 }
+```
 
 ## 📊 Notebooks
 
