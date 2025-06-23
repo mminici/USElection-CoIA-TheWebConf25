@@ -9,11 +9,22 @@ This repository accompanies our paper presented at **The Web Conference 2025**:
 If you find this work useful, please consider citing our paper:
 
 ```bibtex
-@article{cinus2024exposing,
-  title={Exposing Cross-Platform Coordinated Inauthentic Activity in the Run-Up to the 2024 US Election},
-  author={Cinus, Federico and Minici, Marco and Luceri, Luca and Ferrara, Emilio},
-  journal={arXiv preprint arXiv:2410.22716},
-  year={2024}
+@inproceedings{10.1145/3696410.3714698,
+author = {Cinus, Federico and Minici, Marco and Luceri, Luca and Ferrara, Emilio},
+title = {Exposing Cross-Platform Coordinated Inauthentic Activity in the Run-Up to the 2024 U.S. Election},
+year = {2025},
+isbn = {9798400712746},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3696410.3714698},
+doi = {10.1145/3696410.3714698},
+abstract = {Coordinated information operations remain a persistent challenge on social media, despite platform efforts to curb them. While previous research has primarily focused on identifying these operations within individual platforms, this study shows that coordination frequently transcends platform boundaries. Leveraging newly collected data of online conversations related to the 2024 U.S. Election across 𝕏 (formerly, Twitter), Facebook, and Telegram, we construct similarity networks to detect coordinated communities exhibiting suspicious sharing behaviors within and across platforms. Proposing an advanced coordination detection model, we reveal evidence of potential foreign interference, with Russian-affiliated media being systematically promoted across Telegram and 𝕏. Our analysis also uncovers substantial intra- and cross-platform coordinated inauthentic activity, driving the spread of highly partisan, low-credibility, and conspiratorial content. These findings highlight the urgent need for regulatory measures that extend beyond individual platforms to effectively address the growing challenge of cross-platform coordinated influence campaigns.},
+booktitle = {Proceedings of the ACM on Web Conference 2025},
+pages = {541–559},
+numpages = {19},
+keywords = {coordinated inauthentic behavior, information operations},
+location = {Sydney NSW, Australia},
+series = {WWW '25}
 }
 ```
 
